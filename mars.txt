@@ -1,4 +1,4 @@
 this is a test of the first file
-this is the line
+this is the line second
 updated with the third line of text
 
